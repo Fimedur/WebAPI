@@ -108,8 +108,8 @@ namespace WebAPI.Controllers
         public JsonResult Delete(int id)
         {
             string query = @"
-                   delete from  dbo.Department
-                   Where DepartmentId= " + id + @"
+                   delete from  dbo.Employee
+                   Where EmployeeId= " + id + @"
                    ";
             DataTable table = new DataTable();
             string sqlDataSource = _configuration.GetConnectionString("EmployeeAppCon");
