@@ -23,3 +23,9 @@ C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNe
 C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\USER\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
